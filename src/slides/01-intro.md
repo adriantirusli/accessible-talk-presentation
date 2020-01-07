@@ -1,14 +1,23 @@
-# Gatsby Deck
-
-Create presentations using Gatsby & React.
+# Hi, I'm Adrin 👋🏻
+Front-end Developer, JYSK Group
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+# Watch your talk, make it accessible!
+
+---
+
+<!-- # Here we have:
+<ul>
+    <li>Kenapa topik ini penting</li>
+    <li>Types of disability</li>
+    <li>...</li>
+</ul>
+
+--- -->
+
+# Accessible, Accessibility, A11Y 
+## Apaan tuh?
 
 ---
 

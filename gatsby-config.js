@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    name: `Fabian Schultz`,
-    title: `Gatsby Deck`,
-    date: `July 30, 2018`,
+    name: `@adriantirusli`,
+    title: `Global Diversity CFP Day 2020`,
+    date: `January 18, 2020`,
   },
   plugins: [
     `gatsby-plugin-layout`,
