@@ -51,8 +51,9 @@ html {
 }
 
 #slide ul {
-    text-align: left;
+    text-align: center;
     margin-left: 32px;
+    line-height: 40pt;
 }
 
 a {
@@ -121,14 +122,13 @@ a:hover {
 }
 
 h1 {
-  font-size: 200%;
-
+  font-size: 4rem;
+  color: maroon;
   margin-bottom: 0.5rem;
 }
 
 h2 {
-  font-size: 120%;
-
+  font-size: 60px;
   margin-bottom: 0.5rem;
 }
 

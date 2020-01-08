@@ -1,5 +1,5 @@
 # Hi, I'm Adrin 👋🏻
-Front-end Developer, JYSK Group
+#### Front-end Developer, JYSK Group | Co-organizer WordPress Meetup Jakarta
 
 ---
 
@@ -7,14 +7,22 @@ Front-end Developer, JYSK Group
 
 ---
 
-<!-- # Here we have:
+# Here we have 🤓
+
 <ul>
-    <li>Kenapa topik ini penting</li>
+    <li>Why this topic matter</li>
+    <li>Are you familiar with (you know what) words?</li>
     <li>Types of disability</li>
-    <li>...</li>
+    <li>Examples of (not so bad) speakers</li>
+    <li>Practical Suggestions</li>
 </ul>
 
---- -->
+---
+
+# Have you ever heard Web Accessibility? 🧐
+*even tho i know your answer is "Duh", I still want to ask
+
+---
 
 # Accessible, Accessibility, A11Y 
 ## Apaan tuh?
