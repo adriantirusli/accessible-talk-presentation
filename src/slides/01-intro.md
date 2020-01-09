@@ -19,17 +19,22 @@
 
 ---
 
+# Accessible, Accessibility (A11Y)
+# 🤔
+
+---
+
 # Have you ever heard Web Accessibility? 🧐
 *even tho i know your answer is "Duh", I still want to ask
 
 ---
 
-# Accessible, Accessibility, A11Y 
-## Apaan tuh?
+<blockquote>The Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.</blockquote>
+<a href="https://www.w3.org/standards/webdesign/accessibility#case"><cite>W3.org</cite></a>
 
 ---
 
-# 🤫
+# Great talk is not about a fancy topic and cool slide, but the speaker.
 
 ---
 
