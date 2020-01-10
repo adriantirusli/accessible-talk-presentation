@@ -19,8 +19,8 @@
 
 ---
 
-# Accessible, Accessibility (A11Y)
-# 🤔
+# Accessibility
+To exclude **no one**.
 
 ---
 
@@ -29,18 +29,24 @@
 
 ---
 
-<blockquote>The Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.</blockquote>
+> The Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. 
+> When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.
 <a href="https://www.w3.org/standards/webdesign/accessibility#case"><cite>W3.org</cite></a>
 
 ---
 
-# Great talk is not about a fancy topic and cool slide, but the speaker.
+
+## Great presentation is not about a **fancy topic** and **cool slide**, but **the speaker**.
 
 
 ---
 
-## Slides are written in Markdown!
+# Disability
 
+---
+
+# It is important to provide talk that is accessible
+ 
 Here's the source of the first slide:
 
     # Gatsby Deck
