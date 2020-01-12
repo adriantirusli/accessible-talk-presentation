@@ -92,11 +92,7 @@ Go Big or Go Home.
 ---
 
 ## Is your font readable?
-Here are some best practices according with [British Dyselexia Style Guide 2018](https://www.bdadyslexia.org.uk/common/ckeditor/filemanager/userfiles/Dyslexia_Style_Guide_2018-final.pdf):   
-* Sans serif is typically the most readable.
-* Be generous with spacing (between letters, words, and lines).
-* Use bold for emphasis — underline and italic change the letter shapes, making them less identifiable.
-* Use mixed case, not all caps.
+According to [British Dyselexia Style Guide 2018](https://www.bdadyslexia.org.uk/common/ckeditor/filemanager/userfiles/Dyslexia_Style_Guide_2018-final.pdf): Use sans serif, be generous with spacing, use bold for emphasis, use mixed case.
 
 ---
 
