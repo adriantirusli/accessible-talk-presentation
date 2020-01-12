@@ -31,17 +31,17 @@ To exclude **no one**.
 ---
 
 ## Contoh Gambar:
-"Ya temen-temen bisa lihat gambar-gambar di slide yang merupakan beberapa contoh dari A (nyodorin gambar seabrek sambil dijelaskan maksudnya apa)"
+"Ya temen-temen bisa lihat gambar-gambar di slide yang merupakan beberapa contoh dari A"
 
 ---
 
 ## Contoh Video:
-"Mari kita saksikan video alur dari fitur B (muterin video, ternyata videonya ga punya subtitle)"
+"Mari kita saksikan video alur dari fitur B"
 
 ---
 
 ## Contoh Grafik:
-"Berikut merupakan grafik yang menunjukkan nilai Y di Indonesia dalam 6 bulan terakhir (nunjukkin grafik warna-warni, habis itu diem 5 detik ngebiarin audience liat grafik aja)"
+"Berikut merupakan grafik yang menunjukkan nilai Y di Indonesia dalam 6 bulan terakhir"
 
 ---
 
