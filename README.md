@@ -1,7 +1,6 @@
 # Watch Your Talk, Make it Accessible! - Presentation on GDCFP Day 2020 Jakarta
 
-Do you remember a time when people around you broke out in laughter, but you didn’t hear the joke?
-Be careful not to leave out information for some people in your audience. For example, if you say “you can read it on the slide”, you are probably excluding people who cannot see the slide.
+How to make your talk become more accessible.
 
 ## Notes
 **3 slides are using Indonesian** 
@@ -22,3 +21,4 @@ $ yarn build
 ```
 
 ➡️ **[See a live example](https://accessible-talk-slide.netlify.com/)**
+➡️ **[Read my article](https://medium.com/@adriantirusli/not-only-your-web-pages-but-watch-your-talk-make-it-accessible-d2ec249c43b7)**
