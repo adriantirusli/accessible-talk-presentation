@@ -9,6 +9,7 @@
 # Slides & Article
 * [bit.do/accessible-talk-article](http://bit.do/accessible-talk-article)
 * [accessible-talk-slide.netlify.com](https://accessible-talk-slide.netlify.com)
+* [GitHub Repository for Slide](https://github.com/adriantirusli/accessible-talk-presentation)
 
 ---
 
