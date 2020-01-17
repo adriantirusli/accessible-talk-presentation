@@ -1,10 +1,15 @@
+![disability symbols](/assets/people-illustration-1.png)
+Source: [Garbage Pail Components by Marcy Sutton](https://marcysutton.github.io/garbage-pail-components/).
+
+---
+
 # Accessibility
 To exclude **no one**.
 
 ---
 
 # Have you ever heard Web Accessibility? 🧐
-*even tho i know your answer is "Duh", I still want to ask
+*Duh, who doesn't know that?
 
 ---
 
@@ -45,11 +50,11 @@ To exclude **no one**.
 
 ---
 
-# You can do better. But How?
+# You can do better. But How? 🤔
 
 ---
 
-# Let's do breakdown to 4 steps
+# Let's do breakdown into 4 steps 
 * Planning your Session
 * Preparing Slides
 * Presenting Tips
@@ -81,7 +86,7 @@ Some people can better understand verbal information. Other people can better un
 
 ---
 
-# Preparing Slides
+# Preparing Slides 
 
 ---
 
@@ -92,7 +97,7 @@ Go Big or Go Home.
 ---
 
 ## Is your font readable?
-According to [British Dyselexia Style Guide 2018](https://www.bdadyslexia.org.uk/common/ckeditor/filemanager/userfiles/Dyslexia_Style_Guide_2018-final.pdf): Use sans serif, be generous with spacing, use bold for emphasis, use mixed case.
+According to [British Dyselexia Style Guide 2018](https://cdn.bdadyslexia.org.uk/documents/Advice/Dyslexic-Employee/Dyslexia_Style_Guide_2018-final.pdf?mtime=20190409173541): Use sans serif, be generous with spacing, use bold for emphasis, use mixed case.
 
 ---
 

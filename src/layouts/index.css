@@ -60,6 +60,10 @@ html {
     font-size: 40px;
 }
 
+#slide img{
+  box-shadow: unset !important;
+}
+
 a {
   color: var(--text);
 
@@ -176,6 +180,11 @@ header span {
 }
 
 @media(max-width: 767px){
+  html, body {
+    margin: 0; 
+    height: 100%; 
+    overflow: hidden
+  }
   #slide{
     padding: .5rem;
   }
@@ -192,8 +201,8 @@ header span {
     line-height: 42pt;
   }
   p{
-    font-size: 24px;
-    line-height: 28pt;
+    font-size: 20px;
+    line-height: 24pt;
   }
   blockquote{
     width: 80vw;

@@ -7,10 +7,10 @@ import Transition from '../components/transition';
 
 import './index.css';
 
-const Header = ({ name, title, date }) => (
+const Header = ({ name, date }) => (
   <header>
     <Link to="/1">
-      <span>{name}</span> — {title}
+      <span>{name}</span>
     </Link>
     <time>{date}</time>
   </header>

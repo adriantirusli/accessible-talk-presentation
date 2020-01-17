@@ -6,13 +6,21 @@
 
 ---
 
+# Slides & Article
+* [bit.do/accessible-talk-article](bit.do/accessible-talk-article)
+* [https://accessible-talk-slide.netlify.com](accessible-talk.netlify.com)
+
+---
+
 > All the great speakers were bad speakers at first.
 > <cite>Ralph Waldo Emerson</cite>
 
 ---
 
 # Ask me anything!
+@adriantirusli      
+adriantirusli@gmail.com
 
 ---
 
-# Thank you! 😘
+# Thank you! 😳
