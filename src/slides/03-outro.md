@@ -8,7 +8,7 @@
 
 # Slides & Article
 * [bit.do/accessible-talk-article](bit.do/accessible-talk-article)
-* [https://accessible-talk-slide.netlify.com](accessible-talk-slide.netlify.com)
+* [accessible-talk-slide.netlify.com](https://accessible-talk-slide.netlify.com)
 
 ---
 
