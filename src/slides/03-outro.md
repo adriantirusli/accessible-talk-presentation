@@ -18,8 +18,7 @@
 ---
 
 # Ask me anything!
-@adriantirusli      
-adriantirusli@gmail.com
+[@adriantirusli](https://twitter.com/adriantirusli)     
 
 ---
 
